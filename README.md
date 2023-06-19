@@ -1,12 +1,7 @@
-### 👋 Hello World!
+### 👋 안녕하세요! 개발자 이규한입니다!
 <p>
   <a href="https://weaklion1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-F29661?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
-
-<p>
-  👋&nbsp; <strong>안녕하세요!</strong> 개발자 이규한입니다!
-</p>
-
 
 ### 💪 Skills
 #### Platforms & Languages
