@@ -1,6 +1,6 @@
 ### 👋 Hello World!
 <p>
-  <a href="https://weaklion1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-#F29661?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://weaklion1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-F29661?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
 <p>
@@ -24,4 +24,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-[![Weaklion's GitHub stats](https://github-readme-stats.vercel.app/api?username=weaklion)](https://github.com/weaklion/github-readme-stats)
+
