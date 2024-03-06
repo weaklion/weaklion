@@ -3,6 +3,11 @@
   <a href="https://weaklion1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-F29661?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
+<p>
+  뉴밍 : <a href="https://newming.griplabs.co/" target="_blank">https://newming.griplabs.co</a>
+  닥스웨이브 : <a href="https://www.docswave.com/" target="_blank">https://www.docswave.com/</a>
+</p>
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
