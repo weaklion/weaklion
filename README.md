@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  뉴밍 : <a href="https://newming.griplabs.co/" target="_blank">https://newming.griplabs.co</a>
+  뉴밍 : <a href="https://newming.griplabs.co/" target="_blank">https://newming.griplabs.co</a><br>
   닥스웨이브 : <a href="https://www.docswave.com/" target="_blank">https://www.docswave.com/</a>
 </p>
 
